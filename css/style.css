@@ -9,6 +9,9 @@ body:after {
 body:after {
   clear: both;
 }
+#logo-wrap{
+  display: none;
+}
 html,
 body,
 div,
